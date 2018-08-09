@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Response>
-  <Say voice="Shenba"> Alarm at your location myHome.Looks like someone is Intruding!!.Act On it</Say>
+  <Say voice="Shenba"> Alarm at your location MY HOME.Looks like someone is Intruding. Act On it.</Say>
+  <Say voice="Shenba"> Looks like someone is Intruding</Say>
+  <Say voice="Shenba"> Act On it.</Say>
 </Response>
