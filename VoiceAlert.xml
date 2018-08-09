@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Response>
   <Say voice="Shenba"> Alarm at your location myHome.Looks like someone is Intruding!!.Act On it</Say>
-  <Play>https://drive.google.com/file/d/1JIw-EHq07zQNKjVu0cmkSxmqIauEx3eM/view</Play>
 </Response>
